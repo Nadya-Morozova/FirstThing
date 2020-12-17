@@ -19,6 +19,7 @@ int main() {
     };
 
     elements(arr);
+    cout « "Hello, world";
 }
 
 
